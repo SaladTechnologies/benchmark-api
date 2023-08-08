@@ -1,0 +1,11 @@
+{
+  "name": "benchmark-api",
+  "version": "1.0.0",
+  "description": "A lambda for recording benchmarking data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shawn Rushefsky",
+  "license": "UNLICENSED"
+}
